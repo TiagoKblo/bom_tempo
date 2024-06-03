@@ -27,16 +27,16 @@ O projeto deve obrigatoriamente conter os seguintes itens:
 
 O projeto está organizado da seguinte forma:
 
-humor_diario/
-├── lib/
-│ ├── main.dart
-│ ├── widgets/
-│ ├── pages/
-│ ├── models/
-│ └── [outros arquivos e pastas conforme necessário]
-├── pubspec.yaml
-├── README.md
-└── [outros arquivos e pastas do projeto]
+| Caminho               | Descrição                            |
+|-----------------------|--------------------------------------|
+| `lib/`                | Diretório principal do código fonte  |
+| `lib/main.dart`       | Ponto de entrada do aplicativo       |
+| `lib/widgets/`        | Componentes reutilizáveis            |
+| `lib/pages/`          | Páginas principais do aplicativo     |
+| `lib/models/`         | Modelos de dados                     |
+| `pubspec.yaml`        | Gerenciamento de dependências        |
+| `README.md`           | Documentação do projeto              |
+| `[outros arquivos]`   | Outros arquivos e pastas do projeto  |
 
 ## Pacotes Externos Utilizados
 

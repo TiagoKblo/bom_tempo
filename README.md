@@ -58,12 +58,12 @@ flutter run
 
 ## Integrantes do Grupo
 
-- Bruno - [Perfil no GitHub](https://github.com/usuario1)
+- Bruno - [Perfil no GitHub](https://github.com/BrunoOliveira1989)
 - Tiago - [Perfil no GitHub](https://github.com/TiagoKblo)
 
 ## Professor
 
-- Douglas Roberto Rosa Pereira
+- Douglas Roberto Rosa Pereira [Perfil no GitHub](https://github.com/douglasroberto90)
 
 ## Instituição
 

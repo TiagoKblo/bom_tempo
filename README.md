@@ -1,17 +1,15 @@
-# Humor Diário
+# Aplicativo de Clima
 
 ## Descrição
 
-O aplicativo "Humor Diário" é uma ferramenta para os usuários registrarem e acompanharem seu humor ao longo do tempo.
-Este projeto foi desenvolvido como parte do curso de Desenvolvimento de Software Multiplataforma da FATEC-Itapira, utilizando a linguagem Dart e o framework Flutter.
+O aplicativo "Aplicativo de Clima" permite que os usuários exibam a previsão do tempo atual e para os próximos dias, salvem localizações favoritas e recebam notificações de mudanças climáticas severas. Este projeto foi desenvolvido como parte do curso de Desenvolvimento de Software Multiplataforma da FATEC-Itapira, utilizando a linguagem Dart e o framework Flutter.
 
 ## Funcionalidades
 
-- Registro diário de humor com opções para selecionar diferentes estados emocionais.
-- Adição de notas diárias para complementar os registros de humor.
-- Visualização de registros anteriores.
-- Gráficos e estatísticas sobre o humor ao longo do tempo (em desenvolvimento).
-- Lembretes diários para registrar o humor (em desenvolvimento).
+- Exibir previsão do tempo atual.
+- Exibir previsão do tempo para os próximos dias.
+- Salvar localizações favoritas.
+- Receber notificações de mudanças climáticas severas (em desenvolvimento).
 
 ## Requisitos
 

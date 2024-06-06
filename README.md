@@ -43,7 +43,7 @@ O projeto está organizado da seguinte forma:
 ## Como Executar o Projeto
 
 1. Clone este repositório:
-git clone https://github.com/TiagoKblo/humor_diario.git
+git clone https://github.com/TiagoKblo/bom_tempo.git
 
 2. Navegue até a pasta do projeto:
 cd humor_diario

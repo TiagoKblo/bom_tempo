@@ -25,16 +25,16 @@ O projeto deve obrigatoriamente conter os seguintes itens:
 
 O projeto está organizado da seguinte forma:
 
-| Caminho               | Descrição                            |
-|-----------------------|--------------------------------------|
-| `lib/`                | Diretório principal do código fonte  |
-| `lib/main.dart`       | Ponto de entrada do aplicativo       |
-| `lib/widgets/`        | Componentes reutilizáveis            |
-| `lib/pages/`          | Páginas principais do aplicativo     |
-| `lib/models/`         | Modelos de dados                     |
-| `pubspec.yaml`        | Gerenciamento de dependências        |
-| `README.md`           | Documentação do projeto              |
-| `[outros arquivos]`   | Outros arquivos e pastas do projeto  |
+| Caminho                  | Descrição                            |
+|--------------------------|--------------------------------------|
+| `lib/`                   | Diretório principal do código fonte  |
+| `lib/main.dart`          | Ponto de entrada do aplicativo       |
+| `lib/config/config.dart` | API key                              |
+| `lib/pages/`             | Páginas principais do aplicativo     |
+| `lib/models/`            | Modelos de dados                     |
+| `pubspec.yaml`           | Gerenciamento de dependências        |
+| `README.md`              | Documentação do projeto              |
+
 
 ## Pacotes Externos Utilizados
 
@@ -46,7 +46,7 @@ O projeto está organizado da seguinte forma:
 git clone https://github.com/TiagoKblo/bom_tempo.git
 
 2. Navegue até a pasta do projeto:
-cd humor_diario
+cd bom_tempo
 
 3. Instale as dependências:
 flutter pub get

@@ -38,7 +38,7 @@ O projeto está organizado da seguinte forma:
 
 ## Pacotes Externos Utilizados
 
-- `shared_preferences`: Utilizado para persistência de dados localmente.
+- `Api- hgbrasil.com`: Utilizado para consulta de dados climáticos.
 
 ## Como Executar o Projeto
 

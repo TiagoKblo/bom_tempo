@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import '../utils/componentes.dart';
 import '../models/clima.dart';
+import '../config/config.dart';
 
 class HomePage extends StatefulWidget {
   @override
@@ -268,7 +269,7 @@ class _HomePageState extends State<HomePage> {
 
   void buscaCidade() async {
     String url =
-        "https://api.hgbrasil.com/weather?format=json-cors&key=8b919156&city_name=${txtCidade.text}";
+        "https://api.hgbrasil.com/weather?format=json-cors&key=$apiKey&city_name=${txtCidade.text}";
     try {
       Response resposta = await get(Uri.parse(url));
       if (resposta.statusCode == 200) {
